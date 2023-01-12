@@ -1,6 +1,10 @@
 # Skin-Cancer-Detection-User-Interface
 This repository contains the code for Web Application to detect Skin Cancer
 
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/64778259/211983385-ea3b71b4-f416-42d7-ba85-6a54a61ebcf2.png">
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/64778259/211983439-ac78e4f2-0c28-4591-9b20-4eba7a561198.png">
+
 <img width="353" alt="image" src="https://user-images.githubusercontent.com/64778259/211983124-fc71ecc4-f4ba-414f-bbb6-6b9ee6e9f129.png">
 
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/64778259/211983157-66ac2612-c0ec-467d-92d3-f3631ad753b5.png">
