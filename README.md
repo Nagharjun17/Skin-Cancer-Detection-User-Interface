@@ -1,4 +1,13 @@
-# Skin-Cancer-Detection-User-Interface
+## Skin-Cancer-Detection-User-Interface
+
+# Publication Details:
+# Citation:
+Ramamurthy, K, Muthuswamy, A, Mathimariappan, N, Kathiresan, GS. A novel two-staged network for skin disease detection using atrous residual convolutional networks. Concurrency Computat Pract Exper. 2023;e7834. doi: 10.1002/cpe.7834
+# Link:
+https://doi.org/10.1002/cpe.7834
+# Full Access PDF:
+https://drive.google.com/file/d/1VIdNn0osZnTGBcJGLjJgWW2ZWy3UC7SJ/view?usp=sharing
+
 This repository contains the code for Web Application to detect Skin Cancer
 
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/64778259/211983385-ea3b71b4-f416-42d7-ba85-6a54a61ebcf2.png">
